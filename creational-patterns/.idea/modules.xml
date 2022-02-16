@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CreationalPatternsRef.iml" filepath="$PROJECT_DIR$/CreationalPatternsRef.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreationalPatterns.iml" filepath="$PROJECT_DIR$/CreationalPatterns.iml" />
     </modules>
   </component>
 </project>
