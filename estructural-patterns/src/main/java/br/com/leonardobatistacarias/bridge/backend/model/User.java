@@ -1,4 +1,4 @@
-package br.com.leonardobatistacarias.adapter.hexagonal.core.model;
+package br.com.leonardobatistacarias.bridge.backend.model;
 
 public class User {
 	private String name;
@@ -29,4 +29,3 @@ public class User {
 		return "User [name=" + name + ", email=" + email + ", password=" + password + "]";
 	}
 }
-
